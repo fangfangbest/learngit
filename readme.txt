@@ -6,5 +6,9 @@ creating a new branch is quick and simple
 this is modified
 hhhhhh stash
 git is free software
+<<<<<<< Updated upstream
 just at middle
  
+=======
+just at middle
+>>>>>>> Stashed changes
