@@ -4,3 +4,5 @@ git has a stage
 create a new brunch is so easy
 creating a new branch is quick and simple
 this is modified
+hhhhhh stash
+git is free software
